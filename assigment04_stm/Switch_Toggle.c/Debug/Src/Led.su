@@ -1,0 +1,2 @@
+../Src/Led.c:10:6:led_init	4	static
+../Src/Led.c:26:6:toggle	4	static

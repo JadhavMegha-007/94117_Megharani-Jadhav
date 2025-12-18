@@ -1,0 +1,8 @@
+"./Src/Led.o"
+"./Src/itm.o"
+"./Src/main.o"
+"./Src/switch_toggle.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Src/system_stm32f4xx.o"
+"./Startup/startup_stm32f407vgtx.o"
