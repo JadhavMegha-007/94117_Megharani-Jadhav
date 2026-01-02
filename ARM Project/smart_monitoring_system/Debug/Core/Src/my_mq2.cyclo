@@ -1,0 +1,2 @@
+../Core/Src/my_mq2.c:21:6:MQ2_Init	1
+../Core/Src/my_mq2.c:26:10:MQ2_Read	1
